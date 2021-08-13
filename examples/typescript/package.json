@@ -18,7 +18,7 @@
     "config": "2.0.1",
     "express": "4.16.3",
     "graphql": "14.0.2",
-    "next": "9.5.4",
+    "next": "11.1.0",
     "prop-types": "15.6.2",
     "react": "^17.0.2",
     "react-apollo": "2.2.1",
